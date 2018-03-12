@@ -271,8 +271,8 @@
 
     <!-- For example: Event reminder: 3 minutes before -->
     <plurals name="seconds_before">
-        <item quantity="one">%d second before</item>
-        <item quantity="other">%d seconds before</item>
+        <item quantity="one">%d sekund før start</item>
+        <item quantity="other">%d sekunder før start</item>
     </plurals>
     <plurals name="minutes_before">
         <item quantity="one">%d minut før start</item>
@@ -289,8 +289,8 @@
 
     <!-- For example: Postpone reminder by 3 minutes -->
     <plurals name="by_seconds">
-        <item quantity="one">%d second</item>
-        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d sekund</item>
+        <item quantity="other">%d sekunder</item>
     </plurals>
     <plurals name="by_minutes">
         <item quantity="one">%d minut</item>
