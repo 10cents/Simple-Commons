@@ -164,8 +164,8 @@
 
     <!-- Are you sure you want to delete 5 contacts? -->
     <plurals name="delete_contacts">
-        <item quantity="one">%d contact</item>
-        <item quantity="other">%d contacts</item>
+        <item quantity="one">%d kontakt</item>
+        <item quantity="other">%d kontakter</item>
     </plurals>
 
     <!-- Storages -->
@@ -258,7 +258,7 @@
     <string name="redo">Gentag</string>
     <string name="print">Udskriv</string>
     <string name="create_shortcut">Opret genvej</string>
-    <string name="add_number_to_contact">Add number to contact</string>
+    <string name="add_number_to_contact">Føj et nummer til en kontakt</string><!-- The trans lation says "a contact" (en kontakt), if "the contact" is better it should be "kontakten" -->
 
     <!-- Sorting -->
     <string name="sort_by">Sorter efter</string>
@@ -654,22 +654,22 @@
         ]]>
     </string>
 
-    <string name="simple_app_launcher">Simple App Launcher</string>
-    <string name="simple_calculator">Simple Calculator</string>
-    <string name="simple_calendar">Simple Calendar</string>
-    <string name="simple_camera">Simple Camera</string>
-    <string name="simple_clock">Simple Clock</string>
-    <string name="simple_contacts">Simple Contacts</string>
+    <string name="simple_app_launcher">Simple App-starter</string>
+    <string name="simple_calculator">Simple Lommeregner</string>
+    <string name="simple_calendar">Simple Kalender</string>
+    <string name="simple_camera">Simple Kamera</string>
+    <string name="simple_clock">Simple Ur</string>
+    <string name="simple_contacts">Simple Kontakter</string>
     <string name="simple_dialer">Simple Dialer</string>
-    <string name="simple_draw">Simple Draw</string>
-    <string name="simple_file_manager">Simple File Manager</string>
+    <string name="simple_draw">Simple Tegning</string>
+    <string name="simple_file_manager">Simple Filhåndtering</string>
     <string name="simple_flashlight">Simple Flashlight</string>
-    <string name="simple_gallery">Simple Gallery</string>
-    <string name="simple_music_player">Simple Music Player</string>
-    <string name="simple_notes">Simple Notes</string>
-    <string name="simple_sms_messenger">Simple SMS Messenger</string>
-    <string name="simple_thank_you">Simple Thank You</string>
-    <string name="simple_voice_recorder">Simple Voice Recorder</string>
+    <string name="simple_gallery">Simple Galleri</string>
+    <string name="simple_music_player">Simple Musikafspiller</string>
+    <string name="simple_notes">Simple Noter</string>
+    <string name="simple_sms_messenger">Simple SMS-beskeder</string>
+    <string name="simple_thank_you">Simple Tak</string>
+    <string name="simple_voice_recorder">Simple Lydoptager</string>
 
     <string name="sideloaded_app">
         <![CDATA[
